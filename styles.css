@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url("bg\ pkwu\ 3.webp");
+    background-image: url("background\ makanan.jpeg");
     padding-left: 6px;
     padding-right: 6px;
     padding-top: 6px;
@@ -18,7 +18,7 @@ h1 {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-size: xx-large;
-    color: purple;
+    color: chocolate;
     font-style: italic;
 }
 
@@ -26,42 +26,42 @@ h2 {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-size: x-large;
-    color: purple;
+    color: chocolate;
 }
 
 h3 {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-size: x-large;
-    color: purple;
+    color: chocolate;
 }
 
 h4 {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-size: x-large;
-    color: purple;
+    color: chocolate;
 }
 
 h5 {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-size: x-large;
-    color: purple;
+    color: chocolate;
 }
 
 h6 {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-size: x-large;
-    color: purple;
+    color: chocolate;
 }
 
 #h7 {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-size: x-large;
-    color: purple;
+    color: chocolate;
 }
 
 #p2 {
@@ -104,13 +104,13 @@ p {
     font-family: "Poppins", sans-serif;
     font-size: larger;
     font-weight: 500;
-    color: rgb(57, 184, 235);
+    color:green;
 }
 
 img {
-    width: 320px;
-    margin-left: 43%;
-    margin-top: 5%;
+    width: 500px;
+    margin-left: auto;
+    margin-top: auto;
 }
 
 
@@ -136,7 +136,7 @@ nav li {
 }
 
 nav a {
-    color: rgb(57, 184, 235);
+    color: chocolate;
     text-decoration: none;
     font-family: "Poppins", sans-serif;
     font-weight: 800;
@@ -164,16 +164,10 @@ footer {
     font-family: "Poppins", sans-serif
 }
 
-.gambarkelompok {
-    width: 1000px;
-    display: block;
-    margin: auto;
-}
-
 span {
     font-family: "Poppins", sans-serif;
     font-weight: 800;
-    color:rgb(57, 184, 235);
+    color:green;
     font-style: italic;
 }
 
@@ -187,13 +181,6 @@ iframe {
     margin: auto;
     display: block;
     width: 700px;
-}
-
-.mySlides img {
-    width: 1000px;
-    height: auto;
-    margin: 550px;
-
 }
 
 .prev,
@@ -217,3 +204,16 @@ iframe {
     right: 10px;
   
 }
+
+/* Caption text */
+.text {
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: x-large;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+  }
