@@ -104,7 +104,7 @@ p {
     font-family: "Poppins", sans-serif;
     font-size: larger;
     font-weight: 500;
-    color:green;
+    color: green;
 }
 
 img {
@@ -167,7 +167,7 @@ footer {
 span {
     font-family: "Poppins", sans-serif;
     font-weight: 800;
-    color:green;
+    color: green;
     font-style: italic;
 }
 
@@ -197,12 +197,12 @@ iframe {
 
 .prev {
     left: 10px;
-   
+
 }
 
 .next {
     right: 10px;
-  
+
 }
 
 /* Caption text */
@@ -216,4 +216,4 @@ iframe {
     bottom: 8px;
     width: 100%;
     text-align: center;
-  }
+}
